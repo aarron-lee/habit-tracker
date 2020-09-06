@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aarronlee.com/habit-tracker/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "https://aarronlee.com/habit-tracker/static/js/main.00f4a367.chunk.js",
+    "main.js.map": "https://aarronlee.com/habit-tracker/static/js/main.00f4a367.chunk.js.map",
+    "runtime-main.js": "https://aarronlee.com/habit-tracker/static/js/runtime-main.bca6df18.js",
+    "runtime-main.js.map": "https://aarronlee.com/habit-tracker/static/js/runtime-main.bca6df18.js.map",
+    "static/js/2.c9635095.chunk.js": "https://aarronlee.com/habit-tracker/static/js/2.c9635095.chunk.js",
+    "static/js/2.c9635095.chunk.js.map": "https://aarronlee.com/habit-tracker/static/js/2.c9635095.chunk.js.map",
+    "index.html": "https://aarronlee.com/habit-tracker/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "https://aarronlee.com/habit-tracker/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c9635095.chunk.js.LICENSE.txt": "https://aarronlee.com/habit-tracker/static/js/2.c9635095.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bca6df18.js",
+    "static/js/2.c9635095.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.00f4a367.chunk.js"
+  ]
+}
